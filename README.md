@@ -7,7 +7,7 @@ Welcome to my personal reading notes repository. Here, you'll find summaries and
 | 📖 Reading Note | 📅 Date | 🏷️ Keywords | 🔗 Link |
 |:---------------:|:-------:|:-----------:|:-------:|
 | Successful Language Model Evaluations | 2024-05-25 | Evaluation, Benchmarks, Tutorial | [Read more](./Evaluation/successful_language_model_eval.md) |
-| From Explicit CoT to Implicit CoT | 2024-05-26 |  Explicit Prompt, CoT, Reasoning | [Read more](./CoT/Explicit_CoT.md) |
+| From Explicit CoT to Implicit CoT | 2024-05-26 |  Implicit Prompt, CoT, Reasoning | [Read more](./CoT/Explicit_CoT.md) |
 
 ---
 
