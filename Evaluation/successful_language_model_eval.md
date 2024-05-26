@@ -1,7 +1,7 @@
 ## Successful Language Model Evaluations
 
 ### Author: Jason Wei
-[link](https://www.jasonwei.net/blog/evals)
+**Link to Paper**: [paper](https://www.jasonwei.net/blog/evals)
 #### Key Points
 
 - **Importance of Evaluations**: Evaluation benchmarks ("evals") are crucial incentives for the research community. Many breakthroughs are closely linked to significant performance improvements on specific evals. A key role of team leads is to determine which eval to optimize.

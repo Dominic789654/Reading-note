@@ -1,5 +1,5 @@
 # From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step
-[link](https://arxiv.org/abs/2405.14838)
+**Link to Paper**: [paper](https://arxiv.org/abs/2405.14838)
 
 ## Authors and Affiliations
 - **Yuntian Deng** (Allen Institute for Artificial Intelligence, University of Waterloo)
@@ -40,4 +40,3 @@
 ## Conclusions and Future Work
 - **Future Directions**: Apply the method to more tasks and larger models, and combine implicit and explicit CoT training for flexibility.
 
-**Link to Paper**: [GitHub](https://github.com/da03/Internalize_CoT_Step_by_Step)
