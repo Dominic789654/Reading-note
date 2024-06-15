@@ -14,7 +14,9 @@ Welcome to my personal reading notes repository. Here, you'll find summaries and
 |👍 Label Words are Anchors | 2024-05-29 | ICL, Anchors, Information Flow | [Read more](./ICL/Label_Words_are_Anchos.md) |
 | Batch Prompting: Efficient Inference with Large Language Model APIs | 2024-05-30 | Batch Prompting, CoT | [Read more](./CoT/Batch_prompt.md) |
 | Dataset Growth | 2024-05-31 | Dataset, clean | [Read more](./Dataset/Dataset_Growth.md) |  
-
+| [Todo] Banishing LLM Hallucinations Requires Rethinking Generalization  | - | - | - |
+| [Todo] Anthropic papers | - | - | [Link](https://www.anthropic.com/research) |
+| [Todo] Prompt Cache | - | - | [Link](https://arxiv.org/pdf/2311.04934)  |
 ---
 
 Feel free to explore and share your thoughts!
