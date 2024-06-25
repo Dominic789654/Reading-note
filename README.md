@@ -17,6 +17,7 @@ Welcome to my personal reading notes repository. Here, you'll find summaries and
 | [Todo] Banishing LLM Hallucinations Requires Rethinking Generalization  | - | - | - |
 | [Todo] Anthropic papers | - | - | [Link](https://www.anthropic.com/research) |
 | [Todo] Prompt Cache | - | - | [Link](https://arxiv.org/pdf/2311.04934)  |
+｜Quest: Query-Aware Sparsity for Efficient Long-Context LLM Inference ｜ 2024-06-17 | Inference, Long-Context | [Read more](./Long-Context/Quest.md) |
 ---
 
 Feel free to explore and share your thoughts!
