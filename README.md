@@ -17,7 +17,11 @@ Welcome to my personal reading notes repository. Here, you'll find summaries and
 | [Todo] Banishing LLM Hallucinations Requires Rethinking Generalization  | - | - | - |
 | [Todo] Anthropic papers | - | - | [Link](https://www.anthropic.com/research) |
 | [Todo] Prompt Cache | - | - | [Link](https://arxiv.org/pdf/2311.04934)  |
-｜Quest: Query-Aware Sparsity for Efficient Long-Context LLM Inference ｜ 2024-06-17 | Inference, Long-Context | [Read more](./Long-Context/Quest.md) |
+| Quest: Query-Aware Sparsity for Efficient Long-Context LLM Inference | 2024-06-17 | Inference, Long-Context | [Read more](./Long-Context/Quest.md) |
+| Optimizing AI Inference at Character.AI | 2024-06-18 | Inference, Optimizing, Character.AI | [Read more](./Inference/optim_Character_AI.md) |
+| SnapKV: Compressing KV Cache in LLMs | 2024-07-01 | Inference, SnapKV, Compressing KV Cache | [Read more](./Inference/snapKV.md) |
+| Efficient Streaming Language Models with Attention Sinks | 2024-07-01 | Inference, StreamingLLM, Attention Sinks | [Read more](./Inference/StreamingLLM.md) |
+
 ---
 
 Feel free to explore and share your thoughts!
