@@ -21,7 +21,9 @@ Welcome to my personal reading notes repository. Here, you'll find summaries and
 | Optimizing AI Inference at Character.AI | 2024-06-18 | Inference, Optimizing, Character.AI | [Read more](./Inference/optim_Character_AI.md) |
 | SnapKV: Compressing KV Cache in LLMs | 2024-07-01 | Inference, SnapKV, Compressing KV Cache | [Read more](./Inference/snapKV.md) |
 | Efficient Streaming Language Models with Attention Sinks | 2024-07-01 | Inference, StreamingLLM, Attention Sinks | [Read more](./Inference/StreamingLLM.md) |
-
+| H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models | 2024-07-01 | Inference, H2O, Heavy-Hitter Oracle | [Read more](./Inference/H2o.md) |
+| ChunkAttention | 2024-07-01 | Inference, ChunkAttention, Attention | [Read more](./Inference/ChunkAttention.md) |
+| ADORE | 2024-07-07 | Inference, ADORE, Attention | [Read more](./Inference/ADORE.md) |
 ---
 
 Feel free to explore and share your thoughts!
