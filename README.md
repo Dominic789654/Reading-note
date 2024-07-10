@@ -26,6 +26,7 @@ Welcome to my personal reading notes repository. Here, you'll find summaries and
 | ADORE | 2024-07-07 | Inference, ADORE, Attention | [Read more](./Inference/ADORE.md) |
 | Reducing Transformer Key-Value Cache Size with Cross-Layer Attention | 2024-07-10 | Inference, CLA, Cross-Layer Attention | [Read more](./Inference/CLA.md) |
 | Layer-Condensed KV Cache for Efficient Inference of Large Language Models | 2024-07-10 | Inference, Layer-Condensed KV Cache | [Read more](./Inference/Layer-Condensed_KV_Cache.md) |
+| MiniCache: KV Cache Compression in Depth Dimension for Large Language Models | 2024-07-10 | Inference, MiniCache, KV Cache Compression | [Read more](./Inference/MiniCache.md) |
 ---
 
 Feel free to explore and share your thoughts!
