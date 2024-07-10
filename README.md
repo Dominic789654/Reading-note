@@ -24,6 +24,7 @@ Welcome to my personal reading notes repository. Here, you'll find summaries and
 | H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models | 2024-07-01 | Inference, H2O, Heavy-Hitter Oracle | [Read more](./Inference/H2o.md) |
 | ChunkAttention | 2024-07-01 | Inference, ChunkAttention, Attention | [Read more](./Inference/ChunkAttention.md) |
 | ADORE | 2024-07-07 | Inference, ADORE, Attention | [Read more](./Inference/ADORE.md) |
+| Reducing Transformer Key-Value Cache Size with Cross-Layer Attention | 2024-07-10 | Inference, CLA, Cross-Layer Attention | [Read more](./Inference/CLA.md) |
 ---
 
 Feel free to explore and share your thoughts!
