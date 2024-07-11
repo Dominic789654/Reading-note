@@ -28,6 +28,7 @@ Welcome to my personal reading notes repository. Here, you'll find summaries and
 | Layer-Condensed KV Cache for Efficient Inference of Large Language Models | 2024-07-10 | Inference, Layer-Condensed KV Cache | [Read more](./Inference/Layer-Condensed_KV_Cache.md) |
 | MiniCache: KV Cache Compression in Depth Dimension for Large Language Models | 2024-07-10 | Inference, MiniCache, KV Cache Compression | [Read more](./Inference/MiniCache.md) |
 | FastGen: Model Tells You What to Discard: Adaptive KV Cache Compression for LLMs | 2024-07-11 | Inference, FastGen, Adaptive KV Cache Compression | [Read more](./Inference/FastGen.md) |
+| PyramidInfer: Pyramid KV Cache Compression for High-throughput LLM Inference | 2024-07-11 | Inference, PyramidInfer, KV Cache Compression | [Read more](./Inference/PyramidInfer.md) |
 ---
 
 Feel free to explore and share your thoughts!
