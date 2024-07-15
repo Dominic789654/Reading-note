@@ -29,6 +29,7 @@ Welcome to my personal reading notes repository. Here, you'll find summaries and
 | MiniCache: KV Cache Compression in Depth Dimension for Large Language Models | 2024-07-10 | Inference, MiniCache, KV Cache Compression | [Read more](./Inference/MiniCache.md) |
 | FastGen: Model Tells You What to Discard: Adaptive KV Cache Compression for LLMs | 2024-07-11 | Inference, FastGen, Adaptive KV Cache Compression | [Read more](./Inference/FastGen.md) |
 | PyramidInfer: Pyramid KV Cache Compression for High-throughput LLM Inference | 2024-07-11 | Inference, PyramidInfer, KV Cache Compression | [Read more](./Inference/PyramidInfer.md) |
+| HUMAN-LIKE EPISODIC MEMORY FOR INFINITE CONTEXT LLMS | 2024-07-15 | Inference, Episodic Memory, Infinite Context | [Read more](./Inference/EM-LLM.md) |
 ---
 
 Feel free to explore and share your thoughts!
