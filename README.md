@@ -33,6 +33,7 @@ Welcome to my personal reading notes repository. Here, you'll find summaries and
 | D2O: Dynamic Discriminative Operations for Efficient Generative Inference of Large Language Models | 2024-07-21 | Inference, KV Cache merge | [Read more](./Inference/D2O.md) |
 | Mixture of Sparse Attention for Automatic Large Language Model Compression | 2024-07-22 | Inference, MoA, Sparse Attention | [Read more](./Inference/MoA.md) |
 | LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference | 2024-07-23 | Inference, LazyLLM, Token Pruning | [Read more](./Inference/LazyLLM.md) |
+| SampleAttention: Adaptive Structured Sparse Attention for Long Context LLMs | 2024-07-24 | Inference, SampleAttention, Structured Sparse Attention | [Read more](./Inference/SampleAttention.md) |
 ---
 
 Feel free to explore and share your thoughts!
