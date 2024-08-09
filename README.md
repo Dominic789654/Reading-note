@@ -34,6 +34,7 @@ Welcome to my personal reading notes repository. Here, you'll find summaries and
 | Mixture of Sparse Attention for Automatic Large Language Model Compression | 2024-07-22 | Inference, MoA, Sparse Attention | [Read more](./Inference/MoA.md) |
 | LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference | 2024-07-23 | Inference, LazyLLM, Token Pruning | [Read more](./Inference/LazyLLM.md) |
 | SampleAttention: Adaptive Structured Sparse Attention for Long Context LLMs | 2024-07-24 | Inference, SampleAttention, Structured Sparse Attention | [Read more](./Inference/SampleAttention.md) |
+| ThinK: Thinner Key Cache by Query-Driven Pruning | 2024-08-09 | Inference, ThinK, Query-Driven Pruning | [Read more](./Inference/ThinK.md) |
 ---
 
 Feel free to explore and share your thoughts!
