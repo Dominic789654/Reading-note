@@ -35,6 +35,7 @@ Welcome to my personal reading notes repository. Here, you'll find summaries and
 | LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference | 2024-07-23 | Inference, LazyLLM, Token Pruning | [Read more](./Inference/LazyLLM.md) |
 | SampleAttention: Adaptive Structured Sparse Attention for Long Context LLMs | 2024-07-24 | Inference, SampleAttention, Structured Sparse Attention | [Read more](./Inference/SampleAttention.md) |
 | ThinK: Thinner Key Cache by Query-Driven Pruning | 2024-08-09 | Inference, ThinK, Query-Driven Pruning | [Read more](./Inference/ThinK.md) |
+| MLKV: Multi-Layer Key-Value Heads for Memory Efficient Transformer Decoding | 2024-08-09 | Inference, MLKV, Multi-Layer Key-Value Heads | [Read more](./Inference/MLKV.md) |
 ---
 
 Feel free to explore and share your thoughts!
