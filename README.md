@@ -36,6 +36,8 @@ Welcome to my personal reading notes repository. Here, you'll find summaries and
 | SampleAttention: Adaptive Structured Sparse Attention for Long Context LLMs | 2024-07-24 | Inference, SampleAttention, Structured Sparse Attention | [Read more](./Inference/SampleAttention.md) |
 | ThinK: Thinner Key Cache by Query-Driven Pruning | 2024-08-09 | Inference, ThinK, Query-Driven Pruning | [Read more](./Inference/ThinK.md) |
 | MLKV: Multi-Layer Key-Value Heads for Memory Efficient Transformer Decoding | 2024-08-09 | Inference, MLKV, Multi-Layer Key-Value Heads | [Read more](./Inference/MLKV.md) |
+| Palu: Compressing KV-Cache with Low-Rank Projection | 2024-08-11 | Inference, Palu, Low-Rank Projection | [Read more](./Inference/Palu.md) |
+| Scissorhands: Exploiting the Persistence of Importance Hypothesis for LLM KV Cache Compression at Test Time | 2024-08-19 | Inference, KV Cache Compression | [Read more](./Inference/Scissorhands.md) |
 ---
 
 Feel free to explore and share your thoughts!
