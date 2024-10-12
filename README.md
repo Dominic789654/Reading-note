@@ -40,6 +40,7 @@ Welcome to my personal reading notes repository. Here, you'll find summaries and
 | Scissorhands: Exploiting the Persistence of Importance Hypothesis for LLM KV Cache Compression at Test Time | 2024-08-19 | Inference, KV Cache Compression | [Read more](./Inference/Scissorhands.md) |
 | AdaKV: Adaptive Budget Allocation for Efficient KV Cache Eviction in Large Language Models | 2024-08-29 | Inference, AdaKV, KV Cache Eviction | [Read more](./Inference/AdaKV.md) |
 | Word Embeddings: The Hidden Steers of Language Models | 2024-10-11 | Embedding, LM-Steer | [Read more](./Embedding/LM-steer.md) |
+| ToolGen: Revolutionizing AI Tool Interaction | 2024-10-12 | Agent, ToolGen | [Read more](./Agent/ToolGen.md) |
 
 ---
 
