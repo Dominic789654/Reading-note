@@ -41,6 +41,8 @@ Welcome to my personal reading notes repository. Here, you'll find summaries and
 | AdaKV: Adaptive Budget Allocation for Efficient KV Cache Eviction in Large Language Models | 2024-08-29 | Inference, AdaKV, KV Cache Eviction | [Read more](./Inference/AdaKV.md) |
 | Word Embeddings: The Hidden Steers of Language Models | 2024-10-11 | Embedding, LM-Steer | [Read more](./Embedding/LM-steer.md) |
 | ToolGen: Revolutionizing AI Tool Interaction | 2024-10-12 | Agent, ToolGen | [Read more](./Agent/ToolGen.md) |
+| Synergy of Thoughts (SoT): Enhancing Reasoning Efficiency in Hybrid Language Models | 2024-10-12 | CoT, SoT | [Read more](./CoT/SoT.md) |
+| AgentSquare: Revolutionizing LLM Agent Design with Modular Search | 2024-10-12 | Agent, AgentSquare | [Read more](./Agent/AgentSquare.md) |
 
 ---
 
