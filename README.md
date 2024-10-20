@@ -43,6 +43,7 @@ Welcome to my personal reading notes repository. Here, you'll find summaries and
 | ToolGen: Revolutionizing AI Tool Interaction | 2024-10-12 | Agent, ToolGen | [Read more](./Agent/ToolGen.md) |
 | Synergy of Thoughts (SoT): Enhancing Reasoning Efficiency in Hybrid Language Models | 2024-10-12 | CoT, SoT | [Read more](./CoT/SoT.md) |
 | AgentSquare: Revolutionizing LLM Agent Design with Modular Search | 2024-10-12 | Agent, AgentSquare | [Read more](./Agent/AgentSquare.md) |
+| Inheritune: Crafting Smaller Yet More Attentive Language Models | 2024-10-20 | Inference, Inheritune, Attention | [Read more](./Compression/Inheritune.md) |
 
 ---
 
