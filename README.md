@@ -104,77 +104,133 @@ Welcome to my personal reading notes repository. Here, you'll find summaries and
 &nbsp;
 
 #### Additional Papers (2025)
+
+##### Agent
+| 📖 Reading Note | 📅 Date | 🏷️ Keywords | 🔗 Link |
+|:---------------|:-------:|:-----------:|:-------:|
+| Tongyi DeepResearch | 2025-12-07 | Deep Research, Technical Report | [Read more](./Agent/Tongyi_DeepResearch.md) |
+| STEVE-1: Text-to-Behavior in Minecraft | 2025-01-11 | Minecraft, Generative Model | [Read more](./Agent/STEVE-1.md) |
+| VOYAGER: Embodied Agent | 2026-01-11 | Embodied Agent, Minecraft | [Read more](./Agent/VOYAGER.md) |
+| Communicating Activations Between Agents | 2025-05-29 | Multi-Agent, Activation | [Read more](./Agent/Communicating_Activations.md) |
+| Janus Pro Technical Report | 2025 | Technical Report | [Read more](./Agent/Janus_Pro.md) |
+| Vision-Centric Contrastive | 2025 | Vision-Centric, Multimodal | [Read more](./Agent/Vision_Centric_Contrastive.md) |
+
+##### CoT
+| 📖 Reading Note | 📅 Date | 🏷️ Keywords | 🔗 Link |
+|:---------------|:-------:|:-----------:|:-------:|
+| TEAL | 2025 | [Keywords pending] | [Read more](./CoT/TEAL.md) |
+| Physics of LLMs 2.2: Learning from Mistakes | 2025 | Physics of LLMs, Math | [Read more](./CoT/Physics_LM_Part2.md) |
+| lolcats | 2025 | [Keywords pending] | [Read more](./CoT/lolcats.md) |
+
+##### Inference
 | 📖 Reading Note | 📅 Date | 🏷️ Keywords | 🔗 Link |
 |:---------------|:-------:|:-----------:|:-------:|
 | KIMI LINEAR: Efficient Attention | 2025-12-16 | Attention Architecture, Linear | [Read more](./Inference/KIMI_LINEAR.md) |
-| COMPLLM: Long Context Q&A Compression | 2025 | Compression, Long Context | [Read more](./Compression/COMPLLM.md) |
-| LMs Know When to Stop Reading | 2025 | Early Exit, Efficient Reading | [Read more](./Long-Context/LM_Stop_Reading.md) |
 | Trainable Dynamic Mask Sparse Attention | 2025-08-06 | Sparse Attention, Trainable | [Read more](./Inference/Trainable_Dynamic_Mask_Sparse_Attn.md) |
-| Entropy-Adaptive Fine-Tuning | 2025 | Fine-tuning, Entropy, Forgetting | [Read more](./Evaluation/Entropy_Adaptive_Finetuning.md) |
 | All for One: Mental Math via Token Transfer | 2025 | Mental Math, Token Transfer | [Read more](./Inference/All_for_One.md) |
 | MoE Knowledge Attribution | 2025 | MoE, Knowledge Attribution | [Read more](./Inference/MoE_Knowledge_Attribution.md) |
-| Tongyi DeepResearch | 2025-12-07 | Deep Research, Technical Report | [Read more](./Agent/Tongyi_DeepResearch.md) |
-| STEVE-1: Text-to-Behavior in Minecraft | 2025-01-11 | Minecraft, Generative Model | [Read more](./Agent/STEVE-1.md) |
-| TEAL | 2025 | [Keywords pending] | [Read more](./CoT/TEAL.md) |
-| Physics of LLMs 2.2: Learning from Mistakes | 2025 | Physics of LLMs, Math | [Read more](./CoT/Physics_LM_Part2.md) |
+
+##### Evaluation
+| 📖 Reading Note | 📅 Date | 🏷️ Keywords | 🔗 Link |
+|:---------------|:-------:|:-----------:|:-------:|
+| Entropy-Adaptive Fine-Tuning | 2025 | Fine-tuning, Entropy, Forgetting | [Read more](./Evaluation/Entropy_Adaptive_Finetuning.md) |
 | Quantifying Information Gain | 2025 | Information Theory | [Read more](./Evaluation/Quantifying_Information_Gain.md) |
-| VOYAGER: Embodied Agent | 2026-01-11 | Embodied Agent, Minecraft | [Read more](./Agent/VOYAGER.md) |
-| Communicating Activations Between Agents | 2025-05-29 | Multi-Agent, Activation | [Read more](./Agent/Communicating_Activations.md) |
 | Federated RAG for Multi-Product QA | 2025-08-13 | Federated RAG, Multi-Product | [Read more](./Evaluation/Federated_RAG.md) |
 | Pero LLM Poster (EMNLP) | 2025 | Poster, EMNLP | [Read more](./Evaluation/Pero_LLM_Poster.md) |
-| Janus Pro Technical Report | 2025 | Technical Report | [Read more](./Agent/Janus_Pro.md) |
-| lolcats | 2025 | [Keywords pending] | [Read more](./CoT/lolcats.md) |
-| Vision-Centric Contrastive | 2025 | Vision-Centric, Multimodal | [Read more](./Agent/Vision_Centric_Contrastive.md) |
+
+##### Long-Context / Compression
+| 📖 Reading Note | 📅 Date | 🏷️ Keywords | 🔗 Link |
+|:---------------|:-------:|:-----------:|:-------:|
+| LMs Know When to Stop Reading | 2025 | Early Exit, Efficient Reading | [Read more](./Long-Context/LM_Stop_Reading.md) |
+| COMPLLM: Long Context Q&A Compression | 2025 | Compression, Long Context | [Read more](./Compression/COMPLLM.md) |
 
 &nbsp;
 
 #### More Papers (2025)
+
+##### Agent
 | 📖 Reading Note | 📅 Date | 🏷️ Keywords | 🔗 Link |
 |:---------------|:-------:|:-----------:|:-------:|
-| Greedy, Not Needy: Efficient Decoding | 2025-08-12 | Efficient Decoding | [Read more](./Inference/Greedy_Not_Needy.md) |
+| M emp: Procedural Memory | 2025-08-13 | Procedural Memory | [Read more](./Agent/M_emp.md) |
+| PhysBrain: Egocentric for Physical AI | 2025 | Egocentric, Physical Intelligence | [Read more](./Agent/PhysBrain.md) |
+| MOOM: Ultra-Long Dialogue Memory | 2025-09-26 | Memory, Role-Playing | [Read more](./Agent/MOOM.md) |
+| Agent Workflow Memory | 2025-07-01 | Agent Workflow | [Read more](./Agent/Agent_Workflow_Memory.md) |
+
+##### CoT
+| 📖 Reading Note | 📅 Date | 🏷️ Keywords | 🔗 Link |
+|:---------------|:-------:|:-----------:|:-------:|
 | Thinkless: When to Think | 2025-08-01 | When to Think | [Read more](./CoT/Thinkless.md) |
 | ThinkSwitcher: Hard vs Fast Thinking | 2025-07-05 | Hard Thinking, Fast Thinking | [Read more](./CoT/ThinkSwitcher.md) |
 | Kinetics: Test-Time Scaling Laws | 2025-07-14 | Test-Time Scaling | [Read more](./CoT/Kinetics.md) |
-| REFUSION: Diffusion LLM | 2025 | Diffusion, Parallel Decoding | [Read more](./Inference/REFUSION.md) |
 | TiDAR: Think in Diffusion | 2025-11-17 | Diffusion, Autoregression | [Read more](./CoT/TiDAR.md) |
-| Probing Arithmetic Errors | 2025 | Arithmetic, Errors | [Read more](./Evaluation/Probing_Arithmetic_Errors.md) |
-| GAIA: General AI Assistants Benchmark | 2025-10-07 | Benchmark, AI Assistants | [Read more](./Evaluation/GAIA.md) |
 | Temporal Sampling for Forgotten Reasoning | 2025-05-29 | Temporal Sampling | [Read more](./CoT/Temporal_Sampling.md) |
 | Order from Chaos: Physical Reasoning | 2025-10-31 | Physical Reasoning | [Read more](./CoT/Order_from_Chaos_Physical.md) |
-| flexprefill: Efficient Prefill | 2025 | Prefill, Efficiency | [Read more](./Inference/flexprefill.md) |
-| APE: Adaptive Parallel Encoding | 2025-12-13 | Parallel Encoding | [Read more](./Inference/APE.md) |
 | DLER: Length Penalty Right | 2025 | Length Penalty, RL | [Read more](./CoT/DLER.md) |
 | Exploring Inherent Efficiency | 2025-06-28 | Self-Guided Efficiency | [Read more](./CoT/Exploring_Inherent_Efficiency.md) |
-| M emp: Procedural Memory | 2025-08-13 | Procedural Memory | [Read more](./Agent/M_emp.md) |
 | Pretraining to Ponder | 2025-08-06 | Pondering, Continuous Space | [Read more](./CoT/Pretraining_to_Ponder.md) |
-| Mirage or Method: RL Alignment | 2025-09-05 | Model-Task Alignment | [Read more](./Evaluation/Mirage_or_Method.md) |
 | Road Not Taken: Token Uncertainty | 2025 | Token Uncertainty | [Read more](./CoT/Road_not_taken.md) |
-| PhysBrain: Egocentric for Physical AI | 2025 | Egocentric, Physical Intelligence | [Read more](./Agent/PhysBrain.md) |
-| Why Stacking Sliding Windows | 2025-08-27 | Sliding Windows | [Read more](./Long-Context/Why_Stacking_Sliding_Windows.md) |
+
+##### Inference
+| 📖 Reading Note | 📅 Date | 🏷️ Keywords | 🔗 Link |
+|:---------------|:-------:|:-----------:|:-------:|
+| Greedy, Not Needy: Efficient Decoding | 2025-08-12 | Efficient Decoding | [Read more](./Inference/Greedy_Not_Needy.md) |
+| REFUSION: Diffusion LLM | 2025 | Diffusion, Parallel Decoding | [Read more](./Inference/REFUSION.md) |
+| flexprefill: Efficient Prefill | 2025 | Prefill, Efficiency | [Read more](./Inference/flexprefill.md) |
+| APE: Adaptive Parallel Encoding | 2025-12-13 | Parallel Encoding | [Read more](./Inference/APE.md) |
 | Sequential Diffusion LLMs | 2025 | Sequential Diffusion | [Read more](./Inference/Sequential_Diffusion.md) |
-| MOOM: Ultra-Long Dialogue Memory | 2025-09-26 | Memory, Role-Playing | [Read more](./Agent/MOOM.md) |
-| Agent Workflow Memory | 2025-07-01 | Agent Workflow | [Read more](./Agent/Agent_Workflow_Memory.md) |
+
+##### Evaluation
+| 📖 Reading Note | 📅 Date | 🏷️ Keywords | 🔗 Link |
+|:---------------|:-------:|:-----------:|:-------:|
+| Probing Arithmetic Errors | 2025 | Arithmetic, Errors | [Read more](./Evaluation/Probing_Arithmetic_Errors.md) |
+| GAIA: General AI Assistants Benchmark | 2025-10-07 | Benchmark, AI Assistants | [Read more](./Evaluation/GAIA.md) |
+| Mirage or Method: RL Alignment | 2025-09-05 | Model-Task Alignment | [Read more](./Evaluation/Mirage_or_Method.md) |
 | DeepSeek OCR | 2025 | OCR | [Read more](./Evaluation/DeepSeek_OCR.md) |
 
+##### Long-Context
+| 📖 Reading Note | 📅 Date | 🏷️ Keywords | 🔗 Link |
+|:---------------|:-------:|:-----------:|:-------:|
+| Why Stacking Sliding Windows | 2025-08-27 | Sliding Windows | [Read more](./Long-Context/Why_Stacking_Sliding_Windows.md) |
+
+&nbsp;
+
 #### Latest Papers (2026)
+
+##### Agent
 | 📖 Reading Note | 📅 Date | 🏷️ Keywords | 🔗 Link |
 |:---------------|:-------:|:-----------:|:-------:|
 | Beyond Task-Level Isolation | 2026-02-12 | Agent, Scheduling, DAG | [Read more](./Agent/Beyond_Task_Level_Isolation.md) |
 | MARS: Modular Agent with Reflective Search | 2026-02-05 | Agent, AI Research | [Read more](./Agent/MARS.md) |
 | AORCHESTRA: Sub-Agent Creation | 2026-02-05 | Agent, Orchestration | [Read more](./Agent/AORCHESTRA.md) |
-| CL-bench: Context Learning | 2026-02-05 | Benchmark, Context | [Read more](./Evaluation/CL-bench.md) |
-| Parallel-Probe: 2D Probing | 2026-02-04 | Parallel Thinking | [Read more](./CoT/Parallel-Probe.md) |
-| Qwen3 Coder Technical Report | 2026-02-04 | Code Generation | [Read more](./Evaluation/Qwen3_Coder.md) |
-| CtrlCoT: Dual-Granularity Compression | 2026-02-01 | CoT, Compression | [Read more](./CoT/CtrlCoT.md) |
-| Do Not Waste Your Rollouts | 2026-02-01 | Test-Time Scaling | [Read more](./CoT/Do_Not_Waste_Rollouts.md) |
 | LangForce: Bayesian VLA | 2026-01-31 | VLA, Bayesian | [Read more](./Agent/LangForce.md) |
 | SWE-Pruner: Context Pruning | 2026-01-27 | Coding Agent, Pruning | [Read more](./Agent/SWE-Pruner.md) |
+| Rethinking Multi-Agent Workflow | 2026-01-22 | Multi-Agent, Baseline | [Read more](./Agent/Rethinking_Multi_Agent.md) |
+
+##### CoT
+| 📖 Reading Note | 📅 Date | 🏷️ Keywords | 🔗 Link |
+|:---------------|:-------:|:-----------:|:-------:|
+| Parallel-Probe: 2D Probing | 2026-02-04 | Parallel Thinking | [Read more](./CoT/Parallel-Probe.md) |
+| CtrlCoT: Dual-Granularity Compression | 2026-02-01 | CoT, Compression | [Read more](./CoT/CtrlCoT.md) |
+| Do Not Waste Your Rollouts | 2026-02-01 | Test-Time Scaling | [Read more](./CoT/Do_Not_Waste_Rollouts.md) |
 | REJUMP: Tree-Jump Representation | 2026-01-27 | Reasoning, Tree | [Read more](./CoT/REJUMP.md) |
 | DiffAdapt: Difficulty Adaptive | 2026-01-27 | Adaptive Reasoning | [Read more](./CoT/DiffAdapt.md) |
+
+##### Inference
+| 📖 Reading Note | 📅 Date | 🏷️ Keywords | 🔗 Link |
+|:---------------|:-------:|:-----------:|:-------:|
 | Sonic: Efficient Inference | 2026-01-25 | Inference, ICML 2026 | [Read more](./Inference/Sonic.md) |
+
+##### Long-Context / RAG
+| 📖 Reading Note | 📅 Date | 🏷️ Keywords | 🔗 Link |
+|:---------------|:-------:|:-----------:|:-------:|
 | LongCat-Flash-Omni | 2026-01-24 | Long Context | [Read more](./Long-Context/LongCat-Flash-Omni.md) |
-| Rethinking Multi-Agent Workflow | 2026-01-22 | Multi-Agent, Baseline | [Read more](./Agent/Rethinking_Multi_Agent.md) |
 | Autofocus Retrieval | 2026-01-20 | Multi-Hop QA, RAG | [Read more](./RAG/Autofocus_Retrieval.md) |
+
+##### Evaluation
+| 📖 Reading Note | 📅 Date | 🏷️ Keywords | 🔗 Link |
+|:---------------|:-------:|:-----------:|:-------:|
+| CL-bench: Context Learning | 2026-02-05 | Benchmark, Context | [Read more](./Evaluation/CL-bench.md) |
+| Qwen3 Coder Technical Report | 2026-02-04 | Code Generation | [Read more](./Evaluation/Qwen3_Coder.md) |
 | Time Travel is Cheating: DeepFund | 2026-02-09 | Benchmark, Finance | [Read more](./Evaluation/Time_Travel_Cheating.md) |
 
 ---
