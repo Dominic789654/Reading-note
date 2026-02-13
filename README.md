@@ -49,6 +49,8 @@ Welcome to my personal reading notes repository. Here, you'll find summaries and
 
 ### New Additions (2025-2026)
 
+&nbsp;
+
 #### Inference (KV Cache & Optimization)
 | HERMES: KV Cache as Hierarchical Memory | 2025-02-12 | KV Cache, Hierarchical Memory, Streaming Video | [Read more](./Inference/HERMES.md) |
 | FlowKV: Non-Uniform KV Cache Architectures | 2025 | KV Cache, Multi-Turn, ICML/ACL 2026 | [Read more](./Inference/FlowKV.md) |
@@ -57,6 +59,8 @@ Welcome to my personal reading notes repository. Here, you'll find summaries and
 | R-KV: Efficient KV Cache Management | 2025-06-18 | KV Cache, Cache Management | [Read more](./Inference/R-KV.md) |
 | ActQKV: Query-Key-Value Activation | 2025-02-26 | QKV, Activation, Inference | [Read more](./Inference/ActQKV.md) |
 | MPCACHE: MPC-Friendly KV Cache Eviction | 2025-12-05 | KV Cache, Private Inference, MPC | [Read more](./Inference/MPCACHE.md) |
+
+&nbsp;
 
 #### Agent (Multi-Agent & Tool Use)
 | GAIA2: Dynamic Agent Benchmark | 2025-11-26 | Agent Benchmark, Dynamic Environment | [Read more](./Agent/GAIA2.md) |
@@ -67,6 +71,8 @@ Welcome to my personal reading notes repository. Here, you'll find summaries and
 | Memory-R1: RL-based Memory Management | 2025-10-14 | Memory, Reinforcement Learning, Agent | [Read more](./Agent/Memory-R1.md) |
 | ArcMemo: Lifelong LLM Memory | 2025-10-08 | Memory, Abstract Reasoning, Lifelong | [Read more](./Agent/ArcMemo.md) |
 | WebLeaper: Info-Rich Web Agent | 2025-12-11 | Web Agent, Information Seeking | [Read more](./Agent/WebLeaper.md) |
+
+&nbsp;
 
 #### CoT (Chain-of-Thought & Reasoning)
 | Missing Premise: Overthinking Analysis | 2025-07-04 | Overthinking, Critical Thinking | [Read more](./CoT/Missing_Premise.md) |
@@ -82,12 +88,16 @@ Welcome to my personal reading notes repository. Here, you'll find summaries and
 | StreamingThinker: Think While Reading | 2025-10-23 | Streaming, Thinking | [Read more](./CoT/StreamingThinker.md) |
 | Don't Overthink It: R1 Survey | 2025-08-10 | R1-style, Reasoning Models | [Read more](./CoT/Dont_Overthink_Survey.md) |
 
+&nbsp;
+
 #### Long-Context / RAG / Memory / Evaluation
 | Training-free Context-adaptive Attention | 2025-12-15 | Training-free, Context-adaptive | [Read more](./Long-Context/Training-free_Context-adaptive.md) |
 | Mindscape-Aware RAG | 2025-12-30 | RAG, Long Context | [Read more](./RAG/Mindscape-Aware_RAG.md) |
 | Extending MemoryLLM | 2025-07-01 | MemoryLLM | [Read more](./Long-Context/Extending_MemoryLLM.md) |
 | Fast-weight Product Key Memory | 2026-01-05 | Fast-weight, Memory | [Read more](./Long-Context/Fast-weight_Product_Key_Memory.md) |
 | CYBERGYM: Cybersecurity Benchmark | 2025-11-26 | Agent, Cybersecurity | [Read more](./Evaluation/CYBERGYM.md) |
+
+&nbsp;
 
 #### Additional Papers (2025)
 | KIMI LINEAR: Efficient Attention | 2025-12-16 | Attention Architecture, Linear | [Read more](./Inference/KIMI_LINEAR.md) |
@@ -109,6 +119,8 @@ Welcome to my personal reading notes repository. Here, you'll find summaries and
 | Janus Pro Technical Report | 2025 | Technical Report | [Read more](./Agent/Janus_Pro.md) |
 | lolcats | 2025 | [Keywords pending] | [Read more](./CoT/lolcats.md) |
 | Vision-Centric Contrastive | 2025 | Vision-Centric, Multimodal | [Read more](./Agent/Vision_Centric_Contrastive.md) |
+
+&nbsp;
 
 #### More Papers (2025)
 | Greedy, Not Needy: Efficient Decoding | 2025-08-12 | Efficient Decoding | [Read more](./Inference/Greedy_Not_Needy.md) |
