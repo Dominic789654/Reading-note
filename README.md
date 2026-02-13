@@ -129,6 +129,8 @@ Welcome to my personal reading notes repository. Here, you'll find summaries and
 &nbsp;
 
 #### More Papers (2025)
+| 📖 Reading Note | 📅 Date | 🏷️ Keywords | 🔗 Link |
+|:---------------|:-------:|:-----------:|:-------:|
 | Greedy, Not Needy: Efficient Decoding | 2025-08-12 | Efficient Decoding | [Read more](./Inference/Greedy_Not_Needy.md) |
 | Thinkless: When to Think | 2025-08-01 | When to Think | [Read more](./CoT/Thinkless.md) |
 | ThinkSwitcher: Hard vs Fast Thinking | 2025-07-05 | Hard Thinking, Fast Thinking | [Read more](./CoT/ThinkSwitcher.md) |
