@@ -156,6 +156,27 @@ Welcome to my personal reading notes repository. Here, you'll find summaries and
 | Agent Workflow Memory | 2025-07-01 | Agent Workflow | [Read more](./Agent/Agent_Workflow_Memory.md) |
 | DeepSeek OCR | 2025 | OCR | [Read more](./Evaluation/DeepSeek_OCR.md) |
 
+#### Latest Papers (2026)
+| 📖 Reading Note | 📅 Date | 🏷️ Keywords | 🔗 Link |
+|:---------------|:-------:|:-----------:|:-------:|
+| Beyond Task-Level Isolation | 2026-02-12 | Agent, Scheduling, DAG | [Read more](./Agent/Beyond_Task_Level_Isolation.md) |
+| MARS: Modular Agent with Reflective Search | 2026-02-05 | Agent, AI Research | [Read more](./Agent/MARS.md) |
+| AORCHESTRA: Sub-Agent Creation | 2026-02-05 | Agent, Orchestration | [Read more](./Agent/AORCHESTRA.md) |
+| CL-bench: Context Learning | 2026-02-05 | Benchmark, Context | [Read more](./Evaluation/CL-bench.md) |
+| Parallel-Probe: 2D Probing | 2026-02-04 | Parallel Thinking | [Read more](./CoT/Parallel-Probe.md) |
+| Qwen3 Coder Technical Report | 2026-02-04 | Code Generation | [Read more](./Evaluation/Qwen3_Coder.md) |
+| CtrlCoT: Dual-Granularity Compression | 2026-02-01 | CoT, Compression | [Read more](./CoT/CtrlCoT.md) |
+| Do Not Waste Your Rollouts | 2026-02-01 | Test-Time Scaling | [Read more](./CoT/Do_Not_Waste_Rollouts.md) |
+| LangForce: Bayesian VLA | 2026-01-31 | VLA, Bayesian | [Read more](./Agent/LangForce.md) |
+| SWE-Pruner: Context Pruning | 2026-01-27 | Coding Agent, Pruning | [Read more](./Agent/SWE-Pruner.md) |
+| REJUMP: Tree-Jump Representation | 2026-01-27 | Reasoning, Tree | [Read more](./CoT/REJUMP.md) |
+| DiffAdapt: Difficulty Adaptive | 2026-01-27 | Adaptive Reasoning | [Read more](./CoT/DiffAdapt.md) |
+| Sonic: Efficient Inference | 2026-01-25 | Inference, ICML 2026 | [Read more](./Inference/Sonic.md) |
+| LongCat-Flash-Omni | 2026-01-24 | Long Context | [Read more](./Long-Context/LongCat-Flash-Omni.md) |
+| Rethinking Multi-Agent Workflow | 2026-01-22 | Multi-Agent, Baseline | [Read more](./Agent/Rethinking_Multi_Agent.md) |
+| Autofocus Retrieval | 2026-01-20 | Multi-Hop QA, RAG | [Read more](./RAG/Autofocus_Retrieval.md) |
+| Time Travel is Cheating: DeepFund | 2026-02-09 | Benchmark, Finance | [Read more](./Evaluation/Time_Travel_Cheating.md) |
+
 ---
 
 Feel free to explore and share your thoughts!
