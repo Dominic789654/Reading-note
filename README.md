@@ -44,6 +44,71 @@ Welcome to my personal reading notes repository. Here, you'll find summaries and
 | Synergy of Thoughts (SoT): Enhancing Reasoning Efficiency in Hybrid Language Models | 2024-10-12 | CoT, SoT | [Read more](./CoT/SoT.md) |
 | AgentSquare: Revolutionizing LLM Agent Design with Modular Search | 2024-10-12 | Agent, AgentSquare | [Read more](./Agent/AgentSquare.md) |
 | Inheritune: Crafting Smaller Yet More Attentive Language Models | 2024-10-20 | Inference, Inheritune, Attention | [Read more](./Compression/Inheritune.md) |
+| FlashRAG: A Modular Toolkit for Efficient RAG Research | 2024-10-12 | RAG, Modular Toolkit, Retrieval-Augmented Generation | [Read more](./RAG/FlashRAG.md) |
+| Multi-Agent Collaboration for Data Selection in LLM Pre-training | 2024-10-12 | Multi-Agent, Data Selection, Pre-training | [Read more](./Training/Multi-Agent_Data_Selection.md) |
+
+### New Additions (2025-2026)
+
+#### Inference (KV Cache & Optimization)
+| HERMES: KV Cache as Hierarchical Memory | 2025-02-12 | KV Cache, Hierarchical Memory, Streaming Video | [Read more](./Inference/HERMES.md) |
+| FlowKV: Non-Uniform KV Cache Architectures | 2025 | KV Cache, Multi-Turn, ICML/ACL 2026 | [Read more](./Inference/FlowKV.md) |
+| KVFunda: Understanding KV Cache | 2025 | KV Cache, Fundamentals, ICML 2026 | [Read more](./Inference/KVFunda.md) |
+| HEX: Heavy-Hitters + Expanders | 2025-10-15 | KV Cache, Heavy-Hitters, Long-Context | [Read more](./Inference/HEX.md) |
+| R-KV: Efficient KV Cache Management | 2025-06-18 | KV Cache, Cache Management | [Read more](./Inference/R-KV.md) |
+| ActQKV: Query-Key-Value Activation | 2025-02-26 | QKV, Activation, Inference | [Read more](./Inference/ActQKV.md) |
+| MPCACHE: MPC-Friendly KV Cache Eviction | 2025-12-05 | KV Cache, Private Inference, MPC | [Read more](./Inference/MPCACHE.md) |
+
+#### Agent (Multi-Agent & Tool Use)
+| GAIA2: Dynamic Agent Benchmark | 2025-11-26 | Agent Benchmark, Dynamic Environment | [Read more](./Agent/GAIA2.md) |
+| TERMINAL-BENCH: CLI Agent Evaluation | 2025 | Agent Benchmark, CLI, Terminal | [Read more](./Agent/TERMINAL-BENCH.md) |
+| MCPMARK: MCP Stress-Testing | 2025-10-02 | MCP, Benchmark, Stress-Testing | [Read more](./Agent/MCPMARK.md) |
+| A-Mem: Agentic Memory System | 2025-09-30 | Agentic Memory, Memory System | [Read more](./Agent/A-Mem.md) |
+| MEM1: Memory + Reasoning Synergy | 2025-06-24 | Memory, Reasoning, Long-Horizon Agents | [Read more](./Agent/MEM1.md) |
+| Memory-R1: RL-based Memory Management | 2025-10-14 | Memory, Reinforcement Learning, Agent | [Read more](./Agent/Memory-R1.md) |
+| ArcMemo: Lifelong LLM Memory | 2025-10-08 | Memory, Abstract Reasoning, Lifelong | [Read more](./Agent/ArcMemo.md) |
+| WebLeaper: Info-Rich Web Agent | 2025-12-11 | Web Agent, Information Seeking | [Read more](./Agent/WebLeaper.md) |
+
+#### CoT (Chain-of-Thought & Reasoning)
+| Missing Premise: Overthinking Analysis | 2025-07-04 | Overthinking, Critical Thinking | [Read more](./CoT/Missing_Premise.md) |
+| SynAdapt: Adaptive Reasoning via CoT | 2025-09-02 | Adaptive Reasoning, Synthetic CoT | [Read more](./CoT/SynAdapt.md) |
+| Native Parallel Reasoner | 2025-12-11 | Parallel Reasoning, Self-Distilled RL | [Read more](./CoT/Native_Parallel_Reasoner.md) |
+| DiffThinker: Diffusion for Reasoning | 2026-01-02 | Diffusion, Multimodal Reasoning | [Read more](./CoT/DiffThinker.md) |
+| RAST: Reasoning Activation | 2025-06-24 | Reasoning Activation, Transfer | [Read more](./CoT/RAST.md) |
+| CoT-Space: Slow-Thinking via RL | 2025-09-15 | CoT, Slow-Thinking, RL Framework | [Read more](./CoT/CoT-Space.md) |
+| SSR: Speculative Parallel Scaling | 2025-09-15 | Speculative, Parallel Scaling | [Read more](./CoT/SSR.md) |
+| SoftCoT++: Test-Time Scaling | 2025-05-29 | Test-Time Scaling, Soft CoT | [Read more](./CoT/SoftCoT_PlusPlus.md) |
+| Implicit Reasoning: Survey | 2025-09-26 | Implicit Reasoning, Survey | [Read more](./CoT/Implicit_Reasoning_Survey.md) |
+| CoreThink: Symbolic Reasoning Layer | 2025-09-08 | Symbolic Reasoning, Long-Horizon | [Read more](./CoT/CoreThink.md) |
+| StreamingThinker: Think While Reading | 2025-10-23 | Streaming, Thinking | [Read more](./CoT/StreamingThinker.md) |
+| Don't Overthink It: R1 Survey | 2025-08-10 | R1-style, Reasoning Models | [Read more](./CoT/Dont_Overthink_Survey.md) |
+
+#### Long-Context / RAG / Memory / Evaluation
+| Training-free Context-adaptive Attention | 2025-12-15 | Training-free, Context-adaptive | [Read more](./Long-Context/Training-free_Context-adaptive.md) |
+| Mindscape-Aware RAG | 2025-12-30 | RAG, Long Context | [Read more](./RAG/Mindscape-Aware_RAG.md) |
+| Extending MemoryLLM | 2025-07-01 | MemoryLLM | [Read more](./Long-Context/Extending_MemoryLLM.md) |
+| Fast-weight Product Key Memory | 2026-01-05 | Fast-weight, Memory | [Read more](./Long-Context/Fast-weight_Product_Key_Memory.md) |
+| CYBERGYM: Cybersecurity Benchmark | 2025-11-26 | Agent, Cybersecurity | [Read more](./Evaluation/CYBERGYM.md) |
+
+#### Additional Papers (2025)
+| KIMI LINEAR: Efficient Attention | 2025-12-16 | Attention Architecture, Linear | [Read more](./Inference/KIMI_LINEAR.md) |
+| COMPLLM: Long Context Q&A Compression | 2025 | Compression, Long Context | [Read more](./Compression/COMPLLM.md) |
+| LMs Know When to Stop Reading | 2025 | Early Exit, Efficient Reading | [Read more](./Long-Context/LM_Stop_Reading.md) |
+| Trainable Dynamic Mask Sparse Attention | 2025-08-06 | Sparse Attention, Trainable | [Read more](./Inference/Trainable_Dynamic_Mask_Sparse_Attn.md) |
+| Entropy-Adaptive Fine-Tuning | 2025 | Fine-tuning, Entropy, Forgetting | [Read more](./Evaluation/Entropy_Adaptive_Finetuning.md) |
+| All for One: Mental Math via Token Transfer | 2025 | Mental Math, Token Transfer | [Read more](./Inference/All_for_One.md) |
+| MoE Knowledge Attribution | 2025 | MoE, Knowledge Attribution | [Read more](./Inference/MoE_Knowledge_Attribution.md) |
+| Tongyi DeepResearch | 2025-12-07 | Deep Research, Technical Report | [Read more](./Agent/Tongyi_DeepResearch.md) |
+| STEVE-1: Text-to-Behavior in Minecraft | 2025-01-11 | Minecraft, Generative Model | [Read more](./Agent/STEVE-1.md) |
+| TEAL | 2025 | [Keywords pending] | [Read more](./CoT/TEAL.md) |
+| Physics of LLMs 2.2: Learning from Mistakes | 2025 | Physics of LLMs, Math | [Read more](./CoT/Physics_LM_Part2.md) |
+| Quantifying Information Gain | 2025 | Information Theory | [Read more](./Evaluation/Quantifying_Information_Gain.md) |
+| VOYAGER: Embodied Agent | 2026-01-11 | Embodied Agent, Minecraft | [Read more](./Agent/VOYAGER.md) |
+| Communicating Activations Between Agents | 2025-05-29 | Multi-Agent, Activation | [Read more](./Agent/Communicating_Activations.md) |
+| Federated RAG for Multi-Product QA | 2025-08-13 | Federated RAG, Multi-Product | [Read more](./Evaluation/Federated_RAG.md) |
+| Pero LLM Poster (EMNLP) | 2025 | Poster, EMNLP | [Read more](./Evaluation/Pero_LLM_Poster.md) |
+| Janus Pro Technical Report | 2025 | Technical Report | [Read more](./Agent/Janus_Pro.md) |
+| lolcats | 2025 | [Keywords pending] | [Read more](./CoT/lolcats.md) |
+| Vision-Centric Contrastive | 2025 | Vision-Centric, Multimodal | [Read more](./Agent/Vision_Centric_Contrastive.md) |
 
 ---
 
