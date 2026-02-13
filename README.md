@@ -49,9 +49,9 @@ Welcome to my personal reading notes repository. Here, you'll find summaries and
 
 ### New Additions (2025-2026)
 
-&nbsp;
-
 #### Inference (KV Cache & Optimization)
+| 📖 Reading Note | 📅 Date | 🏷️ Keywords | 🔗 Link |
+|:---------------|:-------:|:-----------:|:-------:|
 | HERMES: KV Cache as Hierarchical Memory | 2025-02-12 | KV Cache, Hierarchical Memory, Streaming Video | [Read more](./Inference/HERMES.md) |
 | FlowKV: Non-Uniform KV Cache Architectures | 2025 | KV Cache, Multi-Turn, ICML/ACL 2026 | [Read more](./Inference/FlowKV.md) |
 | KVFunda: Understanding KV Cache | 2025 | KV Cache, Fundamentals, ICML 2026 | [Read more](./Inference/KVFunda.md) |
@@ -60,9 +60,9 @@ Welcome to my personal reading notes repository. Here, you'll find summaries and
 | ActQKV: Query-Key-Value Activation | 2025-02-26 | QKV, Activation, Inference | [Read more](./Inference/ActQKV.md) |
 | MPCACHE: MPC-Friendly KV Cache Eviction | 2025-12-05 | KV Cache, Private Inference, MPC | [Read more](./Inference/MPCACHE.md) |
 
-&nbsp;
-
 #### Agent (Multi-Agent & Tool Use)
+| 📖 Reading Note | 📅 Date | 🏷️ Keywords | 🔗 Link |
+|:---------------|:-------:|:-----------:|:-------:|
 | GAIA2: Dynamic Agent Benchmark | 2025-11-26 | Agent Benchmark, Dynamic Environment | [Read more](./Agent/GAIA2.md) |
 | TERMINAL-BENCH: CLI Agent Evaluation | 2025 | Agent Benchmark, CLI, Terminal | [Read more](./Agent/TERMINAL-BENCH.md) |
 | MCPMARK: MCP Stress-Testing | 2025-10-02 | MCP, Benchmark, Stress-Testing | [Read more](./Agent/MCPMARK.md) |
@@ -75,6 +75,8 @@ Welcome to my personal reading notes repository. Here, you'll find summaries and
 &nbsp;
 
 #### CoT (Chain-of-Thought & Reasoning)
+| 📖 Reading Note | 📅 Date | 🏷️ Keywords | 🔗 Link |
+|:---------------|:-------:|:-----------:|:-------:|
 | Missing Premise: Overthinking Analysis | 2025-07-04 | Overthinking, Critical Thinking | [Read more](./CoT/Missing_Premise.md) |
 | SynAdapt: Adaptive Reasoning via CoT | 2025-09-02 | Adaptive Reasoning, Synthetic CoT | [Read more](./CoT/SynAdapt.md) |
 | Native Parallel Reasoner | 2025-12-11 | Parallel Reasoning, Self-Distilled RL | [Read more](./CoT/Native_Parallel_Reasoner.md) |
@@ -91,6 +93,8 @@ Welcome to my personal reading notes repository. Here, you'll find summaries and
 &nbsp;
 
 #### Long-Context / RAG / Memory / Evaluation
+| 📖 Reading Note | 📅 Date | 🏷️ Keywords | 🔗 Link |
+|:---------------|:-------:|:-----------:|:-------:|
 | Training-free Context-adaptive Attention | 2025-12-15 | Training-free, Context-adaptive | [Read more](./Long-Context/Training-free_Context-adaptive.md) |
 | Mindscape-Aware RAG | 2025-12-30 | RAG, Long Context | [Read more](./RAG/Mindscape-Aware_RAG.md) |
 | Extending MemoryLLM | 2025-07-01 | MemoryLLM | [Read more](./Long-Context/Extending_MemoryLLM.md) |
@@ -100,6 +104,8 @@ Welcome to my personal reading notes repository. Here, you'll find summaries and
 &nbsp;
 
 #### Additional Papers (2025)
+| 📖 Reading Note | 📅 Date | 🏷️ Keywords | 🔗 Link |
+|:---------------|:-------:|:-----------:|:-------:|
 | KIMI LINEAR: Efficient Attention | 2025-12-16 | Attention Architecture, Linear | [Read more](./Inference/KIMI_LINEAR.md) |
 | COMPLLM: Long Context Q&A Compression | 2025 | Compression, Long Context | [Read more](./Compression/COMPLLM.md) |
 | LMs Know When to Stop Reading | 2025 | Early Exit, Efficient Reading | [Read more](./Long-Context/LM_Stop_Reading.md) |
