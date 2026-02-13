@@ -110,6 +110,32 @@ Welcome to my personal reading notes repository. Here, you'll find summaries and
 | lolcats | 2025 | [Keywords pending] | [Read more](./CoT/lolcats.md) |
 | Vision-Centric Contrastive | 2025 | Vision-Centric, Multimodal | [Read more](./Agent/Vision_Centric_Contrastive.md) |
 
+#### More Papers (2025)
+| Greedy, Not Needy: Efficient Decoding | 2025-08-12 | Efficient Decoding | [Read more](./Inference/Greedy_Not_Needy.md) |
+| Thinkless: When to Think | 2025-08-01 | When to Think | [Read more](./CoT/Thinkless.md) |
+| ThinkSwitcher: Hard vs Fast Thinking | 2025-07-05 | Hard Thinking, Fast Thinking | [Read more](./CoT/ThinkSwitcher.md) |
+| Kinetics: Test-Time Scaling Laws | 2025-07-14 | Test-Time Scaling | [Read more](./CoT/Kinetics.md) |
+| REFUSION: Diffusion LLM | 2025 | Diffusion, Parallel Decoding | [Read more](./Inference/REFUSION.md) |
+| TiDAR: Think in Diffusion | 2025-11-17 | Diffusion, Autoregression | [Read more](./CoT/TiDAR.md) |
+| Probing Arithmetic Errors | 2025 | Arithmetic, Errors | [Read more](./Evaluation/Probing_Arithmetic_Errors.md) |
+| GAIA: General AI Assistants Benchmark | 2025-10-07 | Benchmark, AI Assistants | [Read more](./Evaluation/GAIA.md) |
+| Temporal Sampling for Forgotten Reasoning | 2025-05-29 | Temporal Sampling | [Read more](./CoT/Temporal_Sampling.md) |
+| Order from Chaos: Physical Reasoning | 2025-10-31 | Physical Reasoning | [Read more](./CoT/Order_from_Chaos_Physical.md) |
+| flexprefill: Efficient Prefill | 2025 | Prefill, Efficiency | [Read more](./Inference/flexprefill.md) |
+| APE: Adaptive Parallel Encoding | 2025-12-13 | Parallel Encoding | [Read more](./Inference/APE.md) |
+| DLER: Length Penalty Right | 2025 | Length Penalty, RL | [Read more](./CoT/DLER.md) |
+| Exploring Inherent Efficiency | 2025-06-28 | Self-Guided Efficiency | [Read more](./CoT/Exploring_Inherent_Efficiency.md) |
+| M emp: Procedural Memory | 2025-08-13 | Procedural Memory | [Read more](./Agent/M_emp.md) |
+| Pretraining to Ponder | 2025-08-06 | Pondering, Continuous Space | [Read more](./CoT/Pretraining_to_Ponder.md) |
+| Mirage or Method: RL Alignment | 2025-09-05 | Model-Task Alignment | [Read more](./Evaluation/Mirage_or_Method.md) |
+| Road Not Taken: Token Uncertainty | 2025 | Token Uncertainty | [Read more](./CoT/Road_not_taken.md) |
+| PhysBrain: Egocentric for Physical AI | 2025 | Egocentric, Physical Intelligence | [Read more](./Agent/PhysBrain.md) |
+| Why Stacking Sliding Windows | 2025-08-27 | Sliding Windows | [Read more](./Long-Context/Why_Stacking_Sliding_Windows.md) |
+| Sequential Diffusion LLMs | 2025 | Sequential Diffusion | [Read more](./Inference/Sequential_Diffusion.md) |
+| MOOM: Ultra-Long Dialogue Memory | 2025-09-26 | Memory, Role-Playing | [Read more](./Agent/MOOM.md) |
+| Agent Workflow Memory | 2025-07-01 | Agent Workflow | [Read more](./Agent/Agent_Workflow_Memory.md) |
+| DeepSeek OCR | 2025 | OCR | [Read more](./Evaluation/DeepSeek_OCR.md) |
+
 ---
 
 Feel free to explore and share your thoughts!
